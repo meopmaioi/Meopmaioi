@@ -52,7 +52,7 @@
 
 ⁠৻♡⊱ ۫ ׅᴮᵃˢⁱᶜ ᴰᴺᴵ ୭ ᵎᵎ .✦° ݁ { ৻ ᴾᵉʳˢᵒⁿᵃˡⁱᶻᵉᵈ ᴰᴺᴵ ᵇᵉˡᵒʷ ݁˖ )
 
-https://www.image2url.com/r2/default/images/1788527564633-f526ad02-3247-473e-8d8b-c76a0804c346.png
+![image](https://www.image2url.com/r2/default/images/1788527564633-f526ad02-3247-473e-8d8b-c76a0804c346.png)
 
 
 
