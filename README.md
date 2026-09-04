@@ -59,7 +59,7 @@
 </details>
 
 <details>
-<summary>『 ✎ ᴹᵒʳᵉ ᵃᵇᵒᵘᵗ ᴹᵉ !<img src="![image](https://www.image2url.com/r2/default/images/1788556067898-dbb3aa56-c530-4627-9ffa-47b5597ebf8b.gif)" width="10"> 』</summary>
+<summary>『 ✎ ᴹᵒʳᵉ ᵃᵇᵒᵘᵗ ᴹᵉ !<img src="![image](https://www.image2url.com/r2/default/images/1788556067898-dbb3aa56-c530-4627-9ffa-47b5597ebf8b.gif)" width="20"> 』</summary>
 
 
 </details>
