@@ -65,7 +65,7 @@
 </details>
 
 <details>
-<summary>『 ✎ ᴾᵉʳˢᵒⁿᵃˡⁱᶻᵉᵈ ᴰᴺᴵ 』</summary>
+<summary>『 ✎ ᴾᵉʳˢᵒⁿᵃˡⁱᶻᵉᵈ ᴰᴺᴵ <img src="https://pin.it/2Cyevg3yi" width="20"> 』</summary>
 
 </details>
 
