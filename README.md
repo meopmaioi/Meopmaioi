@@ -1,10 +1,10 @@
 ╰── ── •• ━━━ ••⚄•• ━━ •• →
 
-"image" (https://www.image2url.com/r2/default/images/1788526264043-249f8acf-b16a-4099-b4a7-c2db03dfa179.jpg)
+![image](https://www.image2url.com/r2/default/images/1788526264043-249f8acf-b16a-4099-b4a7-c2db03dfa179.jpg)
 
 ୨୧ ── 『 ᴹᵉᵒᵖ 』 ── ୨୧
 
-«𐔌 . ᴊᴜsᴛ ᴀ ᴄʀᴇᴀᴛɪᴠᴇ  ᴅᴏɪɴɢ ᴄʀᴇᴀᴛɪᴠᴇ ᴛʜɪɴɢs .ᐟ ꒱»
+«𐔌 . 𝙰 𝚌𝚛𝚎𝚊𝚝𝚒𝚟𝚎 𝚐𝚊𝚕 𝚠𝚊𝚗𝚍𝚎𝚛𝚒𝚗𝚐 𝚘𝚗𝚕𝚒𝚗𝚎 ! .ᐟ ꒱»
 
 ╭─────────────── ⟡
 │ ¹× 『•• ✎ ...._ ⁠৻ ᴺᵃᵐᵉ : ᴹᵉᵒᵖ
@@ -22,11 +22,11 @@
 ╰┈➤ ᴸⁱˢᵗᵉⁿⁱⁿᵍ ᵗᵒ ᵐᵘˢⁱᶜ
 ╰┈➤ ᶜʳᵉᵃᵗⁱᵛᵉ ᵖʳᵒʲᵉᶜᵗˢ
 
-"image" (https://www.image2url.com/r2/default/images/1788528307325-c5d7faef-b1b8-4fcd-ad27-d40b79baf944.jpg)
+![image](https://www.image2url.com/r2/default/images/1788528307325-c5d7faef-b1b8-4fcd-ad27-d40b79baf944.jpg)
 
 ╭───『 ✎ ᴴᵒⁿᵒʳᵃᵇˡᵉˢ ˢᵗʳⁱᵏᵉ ᵃᵍᵃⁱⁿ !? 』───╮
 
-« Shout out to the following ! .ᐟ»
+«𝚃𝚑𝚊𝚗𝚔 𝚢𝚘𝚞 𝚏𝚘𝚛 𝚖𝚊𝚔𝚒𝚗𝚐 𝚖𝚢 𝚠𝚘𝚛𝚕𝚍 𝚋𝚛𝚒𝚐𝚑𝚝𝚎𝚛 ! .ᐟ»
 
 ╰┈➤ ᴮᵘᵍ ‧˚ ꒱  ᵐʸ ᵈᵃᵘᵍʰᵗᵉʳ
 ╰┈➤ ᴸʸˢᵉ ‧˚ ꒱  ᵇᵉˢᵗ ᶠʳⁱᵉⁿᵈ
