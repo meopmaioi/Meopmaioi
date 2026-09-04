@@ -57,11 +57,14 @@
 『 ♡ 』 ᵀʰᵃⁿᵏ ʸᵒᵘ ᶠᵒʳ ˢᵗᵒᵖᵖⁱⁿᵍ ᵇʸ !
 
 <details>
-<summary>『 ✎ ᴹᵒʳᵉ ᵃᵇᵒᵘᵗ ᴹᵉ !? 』</summary>
+<summary>『 ✎ ᴹᵒʳᵉ ᵃᵇᵒᵘᵗ ᴹᵉ 』</summary>
 
-♡ favorite characters  
-♡ favorite songs  
-♡ projects  
-♡ random facts  
 
 </details>
+
+<details>
+<summary>『 ✎ ᴾᵉʳˢᵒⁿᵃˡⁱᶻᵉᵈ ᴰᴺᴵ 』</summary>
+
+</details>
+
+
