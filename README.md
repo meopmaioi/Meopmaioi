@@ -1,4 +1,4 @@
-╰── ──╮•• ━『🃜🃚×°🃖🃁 』━ ••⚄•• ━ •• 
+╰── ──╮•• ━━━ ••⚄•• ━━ •• →
 
 
 ![image](https://www.image2url.com/r2/default/images/1788526264043-249f8acf-b16a-4099-b4a7-c2db03dfa179.jpg)
