@@ -149,4 +149,33 @@
 
 </div>
 
-![STATUS](https://img.shields.io/badge/STATUS-9b8cff?style=for-the-badge)
+https://img.shields.io/badge/●%20ONLINE-a8e6cf?style=flat-square
+
+https://img.shields.io/badge/♡%20SILLY-c8b6ff?style=flat-square
+
+https://img.shields.io/badge/✦%20MEOP-ffb6d9?style=flat-square
+
+![MEOP](https://img.shields.io/badge/✦%20MEOP-ffb6d9?style=flat-square)
+![SILLY](https://img.shields.io/badge/♡%20SILLY-c8b6ff?style=flat-square)
+![ONLINE](https://img.shields.io/badge/●%20ONLINE-a8e6cf?style=flat-square)
+
+<span style="color:pink">TEXT</span>
+
+> [!NOTE]
+> **TEXT**
+
+> [!TIP]
+> **TEXT**
+
+> [!IMPORTANT]
+> **TEXT**
+
+> [!WARNING]
+> **TEXT**
+
+> [!CAUTION]
+> **TEXT**
+
+<kbd>🌸 PINK</kbd>
+<kbd>💜 PURPLE</kbd>
+<kbd>💙 BLUE</kbd>
