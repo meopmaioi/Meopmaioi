@@ -23,7 +23,7 @@
 
 <hr>
 <details>
-<summary><kbd>『 ⟡. 』━━ ᴴᵒᵇᵇⁱᵉˢ ━━</kbd> </summary>
+<summary>『 ⟡. 』━━ ᴴᵒᵇᵇⁱᵉˢ ━━</summary>
 
     ╰┈➤ ᴰʳᵃʷⁱⁿᵍ
 
@@ -44,7 +44,7 @@
 
 
 <details>
-<summary><kbd>╭───『 ✎ ᴴᵒⁿᵒʳᵃᵇˡᵉˢ ˢᵗʳⁱᵏᵉ ᵃᵍᵃⁱⁿ !? 』───╮</kbd></summary>
+<summary>╭───『 ✎ ᴴᵒⁿᵒʳᵃᵇˡᵉˢ ˢᵗʳⁱᵏᵉ ᵃᵍᵃⁱⁿ !? 』───╮</summary>
                   
 
 ━━ **ʸᵒᵘ ᵐᵃᵈᵉ ᵐʸ ʷᵒʳˡᵈ ᵇᵉᵗᵗᵉʳ, ᵗʰᵃⁿᵏ ʸᵒᵘ** ━━
@@ -76,7 +76,7 @@
 
 
 <details>
-<summary><kbd>『 ✎ ᴹᵒʳᵉ ᵃᵇᵒᵘᵗ ᴹᵉ 』</kbd></summary>
+<summary>『 ✎ ᴹᵒʳᵉ ᵃᵇᵒᵘᵗ ᴹᵉ 』</summary>
 
 
 
@@ -99,7 +99,7 @@
 
 
 <details>
-<summary><kbd>୨୧ ── 『 ᴮᵞᴵ .ᐟ 』 ── ୨୧</kbd></summary>『 ⟡.
+<summary>୨୧ ── 『 ᴮᵞᴵ .ᐟ 』 ── ୨୧</summary>『 ⟡.
                     
 
 
