@@ -142,15 +142,13 @@
 
 <hr>
 
----
-
 <div align="center">
 
 <sub>╰─━━━━━━━━━━━━─╯</sub>
 
-**✦ MEOP.EXE ✦**
+** ᴹᵃʸᵒⁿᵃ.ᴱˣᵉ ᵎᵎ**
 
-<sup>୨୧ silly little digital creature ୨୧</sup>
+<sup>୨୧ ᴬ ᵉᵛⁱˡ ᶠᵒʳᵐ ᵒᶠ ᴹᵉᵒᵖ ୨୧</sup>
 
 <sub>╰─━━━━━━━━━━━━─╯</sub>
 
