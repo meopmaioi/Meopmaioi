@@ -8,7 +8,15 @@
 
 
 
+<div align="center">
 
+<img src="IMAGE_URL" width="500">
+
+୨୧ ── 『 ᴹᵉᵒᵖ 』 ── ୨୧
+
+<sub>✦ silly little corner of the internet ✦</sub>
+
+</div>
 
 ୨୧ ── 『 ᴹᵉᵒᵖ 』 ── ୨୧
 
