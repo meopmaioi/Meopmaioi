@@ -2,7 +2,7 @@
 
 ![image](https://www.image2url.com/r2/default/images/1788526264043-249f8acf-b16a-4099-b4a7-c2db03dfa179.jpg)
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-221912?style=flat-square">
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-AB5C4F?style=flat-square">
 
 <sub>✦ **MEOP'S SILLY README** ✦</sub>
 
@@ -18,7 +18,7 @@
 
 ╰─────────────── ⟡
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-221912?style=flat-square">
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-AB5C4F?style=flat-square">
 <details>
 <summary>『 ⟡. 』━━ ᴴᵒᵇᵇⁱᵉˢ ━━</summary>
 
@@ -130,7 +130,7 @@
 
 </details>
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-FB2421?style=flat-square">
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-AB5C4F?style=flat-square">
 
 <div align="center">
 
