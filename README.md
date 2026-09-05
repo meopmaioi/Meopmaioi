@@ -4,7 +4,7 @@
 
 <hr>
 
-<sub>✦ **Meop's silly little README** ✦</sub>
+<sub>✦ **MEOP'S SILLY README** ✦</sub>
 
 ୨୧ ── 『 ᴹᵉᵒᵖ 』 ── ୨୧
 
