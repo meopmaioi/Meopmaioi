@@ -148,3 +148,17 @@
 <sub>╰─━━━━━━━━━━━━─╯</sub>
 
 </div>
+
+&nbsp;
+
+**TEXT** &nbsp;&nbsp; **TEXT**
+
+https://img.shields.io/badge/STATUS-9b8cff?style=for-the-badge
+
+![STATUS](https://img.shields.io/badge/STATUS-9b8cff?style=for-the-badge)
+
+https://img.shields.io/badge/MEOP-ff9ecb?style=flat
+
+![MEOP](https://img.shields.io/badge/MEOP-ff9ecb?style=flat)
+
+![text](https://img.shields.io/badge/TEXT-pink?style=flat)
