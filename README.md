@@ -4,8 +4,7 @@
 
 <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-FB2421?style=flat-square">
 
-![**MEOP'S SILLY README**](https://img.shields.io/badge/<sub>✦ **MEOP'S SILLY README**-F1793A?style=for-the-badge)
-</div>
+<sub>✦ **MEOP'S SILLY README** ✦</sub>
 
 ୨୧ ── 『 ᴹᵉᵒᵖ 』 ── ୨୧
 
