@@ -18,6 +18,9 @@
 
 ╰─────────────── ⟡
 
+![image](https://www.image2url.com/r2/default/images/1788528307325-c5d7faef-b1b8-4fcd-ad27-d40b79baf944.jpg)
+
+
 <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-AB5C4F?style=flat-square">
 <details>
 <summary>『 ⟡. 』━━ ᴴᵒᵇᵇⁱᵉˢ ━━</summary>
