@@ -137,8 +137,6 @@
 
 <hr>
 
-<hr>
-
 <div align="center">
 
 <sub>╰─━━━━━━━━━━━━─╯</sub>
