@@ -92,7 +92,7 @@
 
 
 <details>
-<summary>୨୧ <kbd>── 『 ᴮᵞᴵ .ᐟ 』 ──</kbd>୨୧</summary>『 ⟡.
+<summary><kbd>୨୧ ── 『 ᴮᵞᴵ .ᐟ 』 ── ୨୧</kbd></summary>『 ⟡.
                     
 
 
