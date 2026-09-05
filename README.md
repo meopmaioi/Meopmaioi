@@ -141,3 +141,17 @@
 
 
 <hr>
+
+---
+
+<div align="center">
+
+<sub>╰─━━━━━━━━━━━━─╯</sub>
+
+**✦ MEOP.EXE ✦**
+
+<sup>୨୧ silly little digital creature ୨୧</sup>
+
+<sub>╰─━━━━━━━━━━━━─╯</sub>
+
+</div>
