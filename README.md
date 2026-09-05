@@ -14,7 +14,7 @@
 
 ╰─────────────── ⟡
 
-
+<hr>
 <details>
 <summary><kbd>『 ⟡. 』━━ ᴴᵒᵇᵇⁱᵉˢ ━━</kbd> </summary>
 
