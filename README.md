@@ -135,7 +135,7 @@
 
 </details>
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━-FB2421?style=flat-square">
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-FB2421?style=flat-square">
 
 <div align="center">
 
