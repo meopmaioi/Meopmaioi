@@ -98,7 +98,7 @@
 
 
 <details>
-<summary>୨୧ ── 『 ᴮᵞᴵ .ᐟ 』 ── ୨୧</summary>『 ⟡.
+<summary>୨୧ ── 『 ᴮᵞᴵ ! 』 ── ୨୧</summary>『 ⟡.
                     
 
 
