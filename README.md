@@ -19,7 +19,7 @@
 ╰─────────────── ⟡
 
 ![image](https://www.image2url.com/r2/default/images/1788528307325-c5d7faef-b1b8-4fcd-ad27-d40b79baf944.jpg)
-![image](https://www.image2url.com/r2/default/images/1789754544814-35649443-15c7-4e86-89a4-c931862d450a.png)
+
 
 <hr>
 <details>
@@ -39,7 +39,7 @@
 </details>
 
 
-
+<img src="![image](https://www.image2url.com/r2/default/images/1789754544814-35649443-15c7-4e86-89a4-c931862d450a.png)" width="50" height="50">
 
 
 
