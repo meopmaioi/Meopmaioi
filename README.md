@@ -4,7 +4,7 @@
 
 <hr>
 
-⁠৻ **ᴹʸ ˡᵒᵛᵉˡʸ ᵍⁱʳˡᶠʳⁱᵉⁿᵈ** → [Clickable Text](https://github.com/bringmejoyreturns) !!!
+⁠৻ **ᴹʸ ˡᵒᵛᵉˡʸ ᵍⁱʳˡᶠʳⁱᵉⁿᵈ** → [bringmejoyreturns](https://github.com/bringmejoyreturns) !!!
 
 
 <hr>
