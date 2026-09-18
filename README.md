@@ -1,6 +1,6 @@
 ╰── ── •• ━━━ ••⚄•• ━━ •• →
 
-![image](https://www.image2url.com/r2/default/images/1788526264043-249f8acf-b16a-4099-b4a7-c2db03dfa179.jpg)
+https://www.image2url.com/r2/default/images/1789758387532-175eb053-b6b3-4b8e-b744-0b600c3dc495.jpg)
 
 <hr>
 
@@ -18,8 +18,7 @@
 
 ╰─────────────── ⟡
 
-![image](https://www.image2url.com/r2/default/images/1788528307325-c5d7faef-b1b8-4fcd-ad27-d40b79baf944.jpg)
-
+![image](https://www.image2url.com/r2/default/images/1789758810276-80c4b459-3238-4356-b40e-95ea1f4b7886.png)
 
 <hr>
 <details>
