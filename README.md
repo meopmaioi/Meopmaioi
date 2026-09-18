@@ -1,6 +1,6 @@
 ╰── ── •• ━━━ ••⚄•• ━━ •• →
 
-https://www.image2url.com/r2/default/images/1789758387532-175eb053-b6b3-4b8e-b744-0b600c3dc495.jpg)
+https://www.image2url.com/r2/default/images/1789758387532-175eb053-b6b3-4b8e-b744-0b600c3dc495.jpg
 
 <hr>
 
