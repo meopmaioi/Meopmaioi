@@ -99,7 +99,9 @@
 
 </details>
 
-<hr>
+<hr
+
+![image](https://www.image2url.com/r2/default/images/1789758810276-80c4b459-3238-4356-b40e-95ea1f4b7886.png)
 
 <div align="center">
 
