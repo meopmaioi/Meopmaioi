@@ -4,7 +4,7 @@
 
 <hr>
 
-⁠৻ **ᴹʸ ˡᵒᵛᵉˡʸ ᵍⁱʳˡᶠʳⁱᵉⁿᵈ** → [the ena to my mizuki !!!](https://github.com/bringmejoyreturns) !!!
+⁠৻ **ᴹʸ ˡᵒᵛᵉˡʸ ᵍⁱʳˡᶠʳⁱᵉⁿᵈ** → [ᵀʰᵉ ᴱⁿᵃ ᵗᵒ ᵐʸ ᴹⁱᶻᵘᵏⁱ !!!](https://github.com/bringmejoyreturns) !!!
 
 
 <hr>
