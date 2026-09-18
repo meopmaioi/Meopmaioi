@@ -39,8 +39,7 @@
 </details>
 
 
-<img src="![image](https://www.image2url.com/r2/default/images/1789754544814-35649443-15c7-4e86-89a4-c931862d450a.png)" width="300" height="250">
-
+<img src="![image](https://www.image2url.com/r2/default/images/1789754544814-35649443-15c7-4e86-89a4-c931862d450a.png)" width="100">
 
 
 <details>
