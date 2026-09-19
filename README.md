@@ -106,9 +106,7 @@
 
 <hr
 
-<img src="<img src="![image](https://www.image2url.com/r2/default/images/1789758498983-baabea8f-26e6-4c39-a486-26b187155be4.png)
-
-" width="150">
+<img src="<img src="![image](https://www.image2url.com/r2/default/images/1789758498983-baabea8f-26e6-4c39-a486-26b187155be4.png)" width="150">
 
 <div align="center">
 
