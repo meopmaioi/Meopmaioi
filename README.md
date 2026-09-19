@@ -1,7 +1,5 @@
 ╰── ── •• ━━━ ••⚄•• ━━ •• →
 
-![image](https://www.image2url.com/r2/default/images/1789806970700-5c1ab82d-a807-4877-8999-fed68dc9a7a2.png)
-
 <hr>
 
 ⁠৻ **ᴹʸ ˡᵒᵛᵉˡʸ ᵍⁱʳˡᶠʳⁱᵉⁿᵈ** → [ᵀʰᵉ ᴱⁿᵃ ᵗᵒ ᵐʸ ᴹⁱᶻᵘᵏⁱ !!!](https://github.com/bringmejoyreturns) !!!
@@ -108,6 +106,8 @@
 
 <hr
 
+
+![image](https://www.image2url.com/r2/default/images/1789806970700-5c1ab82d-a807-4877-8999-fed68dc9a7a2.png)
 
 
 <div align="center">
