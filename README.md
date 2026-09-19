@@ -22,7 +22,7 @@
 ³× 『•• 🂱 .... ᴾʳᵒⁿᵒᵘⁿˢ : ˢʰᵉ // ᵀʰᵉʸ
 
 ╰─────────────── ⟡
-![image](https://www.image2url.com/r2/default/images/1789807108887-8da9bbdf-2021-4136-832b-6567a897d550.png)<hr>
+![image](https://www.image2url.com/r2/default/images/1789808330966-94023558-d9b8-441b-8d87-82056289a68b.png)<hr>
 <details>
 <summary>『 ⟡. 』━━ ᴴᵒᵇᵇⁱᵉˢ ━━</summary>
 
