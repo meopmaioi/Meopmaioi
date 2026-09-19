@@ -1,7 +1,6 @@
 ╰── ── •• ━━━ ••⚄•• ━━ •• →
 
-![image](https://www.image2url.com/r2/default/images/1789758387532-175eb053-b6b3-4b8e-b744-0b600c3dc495.jpg)
-
+![image](https://www.image2url.com/r2/default/images/1789804942989-3d99f128-9204-48c0-ae43-b7534e0e6a5d.png)
 <hr>
 
 ⁠৻ **ᴹʸ ˡᵒᵛᵉˡʸ ᵍⁱʳˡᶠʳⁱᵉⁿᵈ** → [ᵀʰᵉ ᴱⁿᵃ ᵗᵒ ᵐʸ ᴹⁱᶻᵘᵏⁱ !!!](https://github.com/bringmejoyreturns) !!!
